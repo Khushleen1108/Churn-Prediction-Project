@@ -62,6 +62,10 @@ This project uses supervised machine learning algorithms to:
 - 🏆 **Best Performing Model**:
   - **XGBoost** was found to be the most effective based on evaluation metrics
 
+- 📉 **Model Interpretability with SHAP**:
+  - Visualizes feature importance using SHAP values
+  - Explains how individual features impact the model’s output
+  - Helps stakeholders understand and trust the predictions
 ---
 
 ## 📦 Installation & Setup
