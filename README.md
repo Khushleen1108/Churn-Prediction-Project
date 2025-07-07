@@ -31,8 +31,6 @@ This project uses supervised machine learning algorithms to:
 
 ---
 
----
-
 ## 🚀 Key Features
 
 - 🧹 **Data Preprocessing**:
